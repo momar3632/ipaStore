@@ -7,7 +7,7 @@ use Illuminate\Database\Eloquent\Model;
 class ConstantsHelper extends Model
 {
     // MARK: - SIGN DIRECTION
-    const SIGN_DIRECTION = "/Users/abdullah/Downloads/zsign/zsign";
+    const SIGN_DIRECTION = "zsign";
 
     // MARK: - KEY
     const STORE_KEY = "ASD&*(534AS4D@#ABDULLAH_MOTLAQ_ALOTAIBI";
