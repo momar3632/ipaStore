@@ -30,8 +30,8 @@ class DatabaseSeeder extends Seeder
         $settings->description = 'a';
         $settings->keywords = 'a';
         $settings->conditions_order = 'a';
-        $settings->status_store = 'a';
-        $settings->status_orders = 'a';
+        $settings->status_store = 1;
+        $settings->status_orders = 1;
         $settings->price_order = 'a';
         $settings->one_signal_app_key = 'a';
         $settings->one_signal_app_id = 'a';
